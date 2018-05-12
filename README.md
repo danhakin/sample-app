@@ -22,3 +22,7 @@ Build and run using Docker Compose:
 	$ docker-cloud stack up
 
 Hello world!
+
+## References
+
+Based on this tutorial: https://docs.aws.amazon.com/AWSGettingStartedContinuousDeliveryPipeline/latest/GettingStarted/CICD_Jenkins_Pipeline.html
